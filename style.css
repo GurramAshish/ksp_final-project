@@ -1,0 +1,48 @@
+*{
+    background-color: black;
+}
+hr{
+    color: gold;
+    size: 2px;
+    margin: 0px;
+}
+h1{
+    color: gold;
+    text-align: center;
+    margin-bottom: 0px;
+}
+h2{
+    color: gold;
+    text-align: center;
+    margin-top: 0px;
+    text-decoration: none;
+    font-size: 30px;
+}
+h3{
+    color: gold;
+    text-align: center;
+}
+a:active{
+    color: gold;
+}
+img {
+    border: 2px solid gold ;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.ranbir-box{
+    display: inline-block;
+}
+#many{
+    text-align: right;
+    margin-right: 20px;
+    margin-top: 0px;
+    font-style: oblique;
+}
+footer{
+    color: gold;
+    text-align: center;
+    font-size: 50PX;
+    font-style: italic;
+}
